@@ -101,12 +101,12 @@ define('DB_NAME', 'sigsa');
 2. **Credenciales de acceso por defecto**
 
    **Administrador:**
-   - Usuario: `admin@sigsa.com`
-   - Contraseña: `admin123`
+   - Usuario: `admin`
+   - Contraseña: `password`
 
    **Empleado:**
-   - Usuario: `empleado@sigsa.com`
-   - Contraseña: `empleado123`
+   - Usuario: `mecanico1`
+   - Contraseña: `password`
 
 ##  Estructura del Proyecto
 
